@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    background-color: burlywood;
+    color: rgb(255, 0, 0);
+    width: 500px;
+    height: 400px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 200px;
+
+}
